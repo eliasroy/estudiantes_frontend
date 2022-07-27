@@ -1,5 +1,5 @@
 ## Descripción 
-Aplicacion web simple que registra y muestra los datos en react implementado con Material UI 
+Aplicacion web simple que registra y muestra los datos en #React implementado con #Material UI 
 
 ## Autor 
 - ELIAS ROY PROVINCIA MAQQUERA
@@ -10,7 +10,8 @@ Aplicacion web simple que registra y muestra los datos en react implementado con
 ## Ver ejemplo en vivo 
 - [Procimamente](https://eliasroy.github.io/portafolio/)
 
-## Instalación Este proyecto no necesita de instalación. Simplemente abre la carpeta o haz doble click en el .html 
+## Instalación 
+Este proyecto no necesita de instalación. Simplemente abre la carpeta o haz doble click en el .html 
 
 ## Contratación 
 Si quieres contratarme puedes escribirme a PROVINCIAELIAS@GMAIL.COM para consultas. 
