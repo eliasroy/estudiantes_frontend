@@ -1,5 +1,5 @@
 ## Descripción 
-Aplicacion web simple que registra y muestra los datos en #React implementado con #Material UI 
+Aplicacion web simple que registra y muestra los datos en una tabla realizado con  #React implementado con #Material UI en el front y en el backend realizado con spring boot y mysql
 
 ## Autor 
 - ELIAS ROY PROVINCIA MAQQUERA
